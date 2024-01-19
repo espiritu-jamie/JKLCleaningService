@@ -7,7 +7,9 @@ const Header = () => {
         <h1>Your Website Name</h1>
         <nav className="box-container">
           <div className="logodiv">logo</div>
-          <div className="namediv">company name </div>
+          <div className="namediv">
+            <h1> JKL Cleaning Service</h1>
+             </div>
           <div className="cocdiv">contact details</div>
         </nav>
       </header>
