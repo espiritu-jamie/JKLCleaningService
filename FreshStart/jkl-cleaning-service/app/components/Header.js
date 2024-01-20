@@ -5,7 +5,7 @@ const Header = () => {
     <div>
       <header>
         <nav className="box-container">
-          <div className="logodiv">logo</div>
+          <div className="logodiv"><img src="app\assets\logo.png" /></div>
           <div className="namediv">
             <h1> JKL Cleaning Service</h1>
             <h5> We Treat you house like ours</h5>

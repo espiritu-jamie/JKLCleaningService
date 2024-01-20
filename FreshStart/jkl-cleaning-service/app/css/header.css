@@ -1,6 +1,7 @@
 .box-container {
     display: flex;
     justify-content: space-between;
+    margin-top: 50px;
   }
   h1{
     font-size:xx-large;
@@ -13,14 +14,14 @@
     background-color: #C9A959;
   }
   p{
-    font-size: x-large;
+    font-size: large;
     text-align: center;
   }
 
   button:hover {   
-    background-color: #c9a959; /* Change the hover background color as needed */}
+    background-color: #253D5B; /* Change the hover background color as needed */}
 button {     
-    background-color: #1A2E45;
+    background-color: #c9a959;
     padding: 10px 20px;   
     font-size: 16px;   
     text-align: center;    
