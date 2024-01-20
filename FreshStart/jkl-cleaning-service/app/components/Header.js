@@ -4,13 +4,14 @@ const Header = () => {
   return (
     <div>
       <header>
-        <h1>Your Website Name</h1>
         <nav className="box-container">
           <div className="logodiv">logo</div>
           <div className="namediv">
             <h1> JKL Cleaning Service</h1>
+            <h5> We Treat you house like ours</h5>
              </div>
-          <div className="cocdiv">contact details</div>
+          <div className="cocdiv"><p>587-999-9999</p> <button type="button" class="btn btn-primary active">Active Primary</button></div>
+          
         </nav>
       </header>
     </div>

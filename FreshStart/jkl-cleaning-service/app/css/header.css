@@ -2,3 +2,27 @@
     display: flex;
     justify-content: space-between;
   }
+  h1{
+    font-size:xx-large;
+    text-align: center;
+    color: #253D5B;
+  }
+  h5{
+    font-size: large;
+    text-align: center;
+    background-color: #C9A959;
+  }
+  p{
+    font-size: x-large;
+    text-align: center;
+  }
+
+  button:hover {   
+    background-color: #c9a959; /* Change the hover background color as needed */}
+button {     
+    background-color: #1A2E45;
+    padding: 10px 20px;   
+    font-size: 16px;   
+    text-align: center;    
+    border-radius: 25px;      
+    cursor: pointer; } /* Hover effect for the button */
