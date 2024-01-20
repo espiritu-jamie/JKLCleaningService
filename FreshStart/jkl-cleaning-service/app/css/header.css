@@ -7,18 +7,21 @@
     font-size:xx-large;
     text-align: center;
     color: #253D5B;
+    font-weight: bolder;
   }
   h5{
     font-size: large;
     text-align: center;
     background-color: #C9A959;
+    border-radius: 25px;
   }
   p{
     font-size: large;
     text-align: center;
+    font-weight: bold;
   }
 
-  button:hover {   
+button:hover {   
     background-color: #253D5B; /* Change the hover background color as needed */}
 button {     
     background-color: #c9a959;
