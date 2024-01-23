@@ -25,7 +25,7 @@ The web platform will include a secure database for storing customer and employe
 - Access is granted to specific individuals, including our project instructor. If you have been given access permissions, you can view the document [here](https://mysait.sharepoint.com/:x:/r/sites/JKLCLEANINGSERVICE/Shared%20Documents/General/Minutes.xlsx?d=wed80fc7d40434c538840c07569909547&csf=1&web=1&e=QsVAWl).
 
 ### Agile Gantt Chart
-
+- Access is granted to specific individuals, including our project instructor. If you have been given access permissions, you can view the document [here](https://mysait.sharepoint.com/:x:/r/sites/JKLCLEANINGSERVICE/Shared%20Documents/General/Agile%20Gantt%20chart%20-%20JKL%20Cleaning%20Service.xlsx?d=wa1c6d5446caf420289bea75a0e63693c&csf=1&web=1&e=a6uBGX).
 
 ## Getting Started
 (Instructions on how to set up the project locally, prerequisites, and any other relevant information.)
