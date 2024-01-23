@@ -8,8 +8,6 @@
   - [Agile Gantt Chart](#agile-gantt-chart)
 - [Getting Started](#getting-started)
 - [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Objectives
 JKL Cleaning Service is a reputable cleaning service provider known for its attention to detail and personalized approach. The goal of this project is to create a web platform that will enhance the operations of JKL Cleaning Service, streamline customer interactions, enable effective employee management, and comprehensively improve the overall service experience for customers. The platform will offer customer booking features, employee management tools, time tracking, customer notifications, customer reviews, photo verification, appointment management, staff profiles, an interactive pricing tool, and appointment history.
