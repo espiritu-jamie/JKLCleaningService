@@ -14,3 +14,4 @@ January 24, 2024
 
 January 25, 2024
     - researching and learning MongoDB (create account?)
+    - continuing to troubleshoot troubleshooting https://github.com/arytek/NodeJS-Booking-App (localhost error for authorized redirect uri?)
