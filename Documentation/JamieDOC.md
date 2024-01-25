@@ -11,3 +11,6 @@ January 23, 2024
 January 24, 2024
     - unable to test https://github.com/SarangaSiriwardhana9/MERN-Stack-Project-Hotel-Booking-System
     - troubleshooting https://github.com/arytek/NodeJS-Booking-App again
+
+January 25, 2024
+    - researching and learning MongoDB (create account?)
