@@ -1,3 +1,13 @@
+January 18, 2024
+
 Research on backend online booking component:
+    - researched various online booking systems
     - tried loading https://github.com/arytek/NodeJS-Booking-App, needs to connect to Google Calendar API and not successful
+
+January 23, 2024
+    - troubleshooting https://github.com/arytek/NodeJS-Booking-App with Google Calendar API (unsuccessful)
     - trying https://github.com/SarangaSiriwardhana9/MERN-Stack-Project-Hotel-Booking-System currently
+
+January 24, 2024
+    - unable to test https://github.com/SarangaSiriwardhana9/MERN-Stack-Project-Hotel-Booking-System
+    - troubleshooting https://github.com/arytek/NodeJS-Booking-App again
