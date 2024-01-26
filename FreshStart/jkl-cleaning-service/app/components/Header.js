@@ -2,6 +2,7 @@ import React from 'react';
 
 const Header = () => {
   return (
+    
     <div>
       <header>
         <nav className="flex justify-between mt-5 items-center bg-gray-100 py-4 px-6">
