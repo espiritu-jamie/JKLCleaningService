@@ -5,7 +5,7 @@ const Header = () => {
     
     <div>
       <header>
-        <nav className="flex justify-between mt-5 items-center bg-gray-100 py-4 px-6">
+        <nav className="flex justify-between mt-5 items-center  py-4 px-6">
           <div className="w-100 h-100 ml-5">
             <img src="/favicon.ico" className="rounded-full h-20 w-20 " />
           </div>
@@ -24,8 +24,15 @@ const Header = () => {
         </nav>
       </header>
       <nav className="flex justify-evenly mt-5 bg-blue-800 text-white py-2">
+      <div>
+        <p>
+            <a className="nav-link hover:text-black" href="#home">
+              Home
+            </a>
+          </p>
+        </div>
         <div>
-          <p>
+        <p>
             <a className="nav-link hover:text-black" href="#menu">
               Menu
             </a>
