@@ -8,4 +8,4 @@ Intro to MongoDB. Link: https://www.mongodb.com/languages/mern-stack-tutorial
 Found a similar project but for a hotel. Link: https://github.com/SarangaSiriwardhana9/MERN-Stack-Project-Hotel-Booking-System/tree/main
 
 Feb 5-6, 2024
-Helped Jamie debug new code. https://github.com/espiritu-jamie/SAMPLE
+Helped Jamie debug new code. Tried implementing delete availability. https://github.com/espiritu-jamie/SAMPLE
