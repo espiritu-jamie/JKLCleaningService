@@ -15,3 +15,12 @@ January 24, 2024
 January 25, 2024
     - researching and learning MongoDB (create account?)
     - continuing to troubleshoot troubleshooting https://github.com/arytek/NodeJS-Booking-App (localhost error for authorized redirect uri?)
+
+Week of January 29, 2024:
+    - researched SQL vs MongoDB
+    - researched other booking applications
+
+February 1 - 5, 2024:
+    - found patient/doctor appointment booking system (https://github.com/OviSarkar62/AppointDoc)
+    - isolating features to use for JKL Cleaning Service
+    - troubleshooting and debugging
